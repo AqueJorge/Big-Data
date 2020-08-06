@@ -15,7 +15,7 @@ Disadvantages
 - Waste of space (internal fragmentation)
     - By allocating memory in fixed blocks, a small process could waste a lot of space
 
-# What are the advantages and disadvantages of a dynamic calving?
+# What are the advantages and disadvantages of a dynamic Partition?
 Advantage:
 - There is no internal fragmentation
 
