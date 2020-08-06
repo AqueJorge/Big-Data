@@ -1,7 +1,7 @@
 # What is a transaction?
 A transaction in a Database Management System is a set of orders that are executed as a unit of work, that is, in an indivisible or atomic form. A transaction must have ACID
 
-#What is isolation?
+# What is isolation?
 In computer security, the isolation of processes or isolated environment is a mechanism to execute programs safely and separately. It is often used to run new code, or dubious reliability software from third parties.
 
 # Why is a transaction abortion not entirely perfect?
